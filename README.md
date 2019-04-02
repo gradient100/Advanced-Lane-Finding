@@ -2,7 +2,7 @@
 
 Vinh Nghiem
 
-Self-Driving Car Engineer Nanodegree Program
+Self-Driving Car Engineer Program
 
 In this project, a software pipeline is written to identify the lane boundaries in a video, along with a detailed writeup of the project.  
 

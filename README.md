@@ -1,7 +1,8 @@
 ## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Vinh Nghiem
+
+Self-Driving Car Engineer Nanodegree Program
 
 In this project, a software pipeline is written to identify the lane boundaries in a video, along with a detailed writeup of the project.  
 
